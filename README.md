@@ -7,13 +7,13 @@ Unity 6.0 환경에서 작업한 프로젝트의 소스코드 일부 발췌
 # 프로젝트 구조
 간단한 메모리 게임과 게임 플레이 방법을 대화로 안내해주는 다이얼로그 시스템 구현
   
-![portfolio-diagram drawio](https://github.com/user-attachments/assets/728cb6a6-b2d6-4e8e-8485-f3484dd99275)
+![portfolio-diagram drawio](ReadmeImages/portfolio-diagram.drawio.png)
 <br/>
 
 # 작동 예시
 |다이얼로그|게임 플레이|
 |---|---|
-|![tutorial](https://github.com/user-attachments/assets/aa5b1c92-cf2a-4e13-b24c-e403c8811357)|![game-play](https://github.com/user-attachments/assets/9211ed29-ce5c-4485-b233-d580f57b7a00)|
+|![tutorial](ReadmeImages/tutorial.gif)|![game-play](ReadmeImages/game-play.gif)|
 <br/>
 
 
